@@ -1,6 +1,6 @@
 # Tablero Kanban con VUE
 
-## Vista
+## [Vista](https://tablero-kanban.netlify.app/)
 <p aling="center"><img src="./README/1.png"></p>
 
 
