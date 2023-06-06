@@ -1,6 +1,7 @@
 # Tablero Kanban con VUE
 
-
+## Vista
+<p aling="center"><img src="./README/1.png"></p>
 
 
 
